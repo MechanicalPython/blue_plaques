@@ -1,0 +1,6 @@
+*__pycache__*
+open-plaques-*.csv
+/venv
+.DS_Store
+.idea/
+
